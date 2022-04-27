@@ -1,0 +1,75 @@
+.envolve1 {
+    display: flex;
+    margin-top: 2vh;
+    width: 54vw;
+    height: 44vw;
+    background-color: white;
+    border-radius: 1vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.envolve2 {
+    margin: 2vw;
+    display: flex;
+    margin-top: 2vh;
+    width: 24vw;
+    height: 24vw;
+    background-color: white;
+    border-radius: 1vw;
+    justify-content: center;
+    align-items: center;
+}
+
+.centro {
+    display: flex;
+    width: 50vw;
+    height: 40vw;
+    background-color: #a1887f;
+    border-radius: 1vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.lado {
+    display: flex;
+    width: 20vw;
+    height: 20vw;
+    background-color: #a1887f;
+    border-radius: 1vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.organizaBotao {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+span {
+    flex-grow: 3;
+    flex-direction: column;
+}
+
+.botaoSim {
+    flex-grow: 1;
+    width: 5vw;
+    height: 3vw;
+    color: "white";
+    border-radius: 1vw;
+    margin: 2vw;
+    background-color: #725b53;
+}
+
+.botaoNao {
+    flex-grow: 1;
+    width: 5vw;
+    height: 3vw;
+    color: "white";
+    border-radius: 1vw;
+    margin: 2vw;
+    background-color: #725b53;
+}
